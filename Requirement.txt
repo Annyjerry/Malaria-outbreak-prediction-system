@@ -1,6 +1,7 @@
 streamlit
-joblib
+pandas
+numpy
 scikit-learn
-
-N/B: This model is just an experiment using predefined dataset.
-NOT applicable in real-life cases
+joblib
+matplotlib
+seaborn
