@@ -32,7 +32,7 @@ It is built with Streamlit for the user interface and scikit-learn for model tra
 📦 Installation
 1. Clone this repository:
    bash
-   git clone https://github.com/yourusername/malaria-outbreak-prediction-system.git
+   git clone https://github.com/annyjerry/malaria-outbreak-prediction-system.git
    cd malaria-outbreak-prediction-system
 
 
