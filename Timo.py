@@ -1,6 +1,6 @@
-
+from joblib import load
 import streamlit as st
-import joblib
+#import joblib
 import numpy as np
 
 # Load the saved Naive Bayes model
