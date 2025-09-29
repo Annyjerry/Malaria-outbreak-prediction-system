@@ -53,6 +53,8 @@ It is built with Streamlit for the user interface and scikit-learn for model tra
 The dataset used here is either synthetic or adapted for demonstration purposes.
 Results are not reliable and should not be applied in any real-life health scenario.
 
+While testing the model its strongly advised to use the data sample from the dataset provided in this repo.
+
  📚 License
 
 This project is released under the **MIT License** for open collaboration and learning.
